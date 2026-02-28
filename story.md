@@ -1,2 +1,4 @@
 # The Repository at the Edge of the Forest
 The first time Lina found the terminal in the forest, it was still warm, as if someone had just been there. The screen glowed faint green against the bark of an ancient oak, and a blinking cursor waited with patient certainty. She did not know why she typed, only that her fingers moved on their own. The command returned nothing—just a silent prompt, like the forest was waiting for her to decide what would exist next.
+
+She returned the next night, bringing a lantern and her growing curiosity. This time, she noticed a hidden directory, its name beginning with a dot, as though it wished not to be seen. Inside, fragments of messages lingered—half‑sentences, timestamps, and author names she did not recognize. It was then she realized the forest was keeping a history, each change preserved like rings inside a tree. Someone, or something, had been committing pieces of its memory here.
