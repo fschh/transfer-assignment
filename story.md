@@ -1,0 +1,2 @@
+# The Repository at the Edge of the Forest
+The first time Lina found the terminal in the forest, it was still warm, as if someone had just been there. The screen glowed faint green against the bark of an ancient oak, and a blinking cursor waited with patient certainty. She did not know why she typed, only that her fingers moved on their own. The command returned nothing—just a silent prompt, like the forest was waiting for her to decide what would exist next.
